@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/SeriesApps/static/css/main.44e23462.chunk.css",
+    "main.js": "/SeriesApps/static/js/main.88c9e2a9.chunk.js",
+    "main.js.map": "/SeriesApps/static/js/main.88c9e2a9.chunk.js.map",
+    "runtime-main.js": "/SeriesApps/static/js/runtime-main.e326037e.js",
+    "runtime-main.js.map": "/SeriesApps/static/js/runtime-main.e326037e.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/SeriesApps/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.dd35763b.chunk.js": "/SeriesApps/static/js/2.dd35763b.chunk.js",
+    "static/js/2.dd35763b.chunk.js.map": "/SeriesApps/static/js/2.dd35763b.chunk.js.map",
+    "index.html": "/SeriesApps/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/SeriesApps/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.44e23462.chunk.css.map": "/SeriesApps/static/css/main.44e23462.chunk.css.map",
+    "static/js/2.dd35763b.chunk.js.LICENSE.txt": "/SeriesApps/static/js/2.dd35763b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e326037e.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.dd35763b.chunk.js",
+    "static/css/main.44e23462.chunk.css",
+    "static/js/main.88c9e2a9.chunk.js"
+  ]
+}
