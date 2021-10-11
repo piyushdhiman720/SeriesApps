@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Cinzel+Decorative&family=Comfortaa:wght@600&family=Fredericka+the+Great&family=Monoton&family=Playball&family=Poiret+One&family=Roboto&display=swap');
+
+/* font-family: 'Bebas Neue', cursive;
+font-family: 'Cinzel Decorative', cursive;
+font-family: 'Comfortaa', cursive;
+font-family: 'Fredericka the Great', cursive;
+font-family: 'Monoton', cursive;
+font-family: 'Playball', cursive;
+font-family: 'Poiret One', cursive;
+font-family: 'Roboto', sans-serif; */
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 16px;
+}
+.header{
+    text-align: center;
+    padding: 25px;
+    font-size: 2em;
+    color: white;
+    letter-spacing: 2px;
+    font-family: 'Poiret One', cursive;
+    font-weight: 900;
+    text-shadow: 1px 2px 5px rgb(110, 104, 104);
+    width: 100%;
+}
+.cards-div{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.card-div{
+    width: 250px;
+}
+.card-div:hover{
+    box-shadow: 5px 6px 8px 5px #000000;
+    transform: scale(1.1)
+}
+.card-img{
+    width: 250px;
+    height: 300px;
+}
+.card-body{
+    background: currentColor;
+}
+.card-title a{
+    text-decoration: none;
+    color: white;
+    font-family: 'Poiret One', cursive;
+}
+.card-title a:hover{
+    color: rgb(238, 192, 192);
+    font-family: 'Poiret One', cursive;
+}
+.card-text{
+    color: white;
+    font-size: 1.5em;
+    text-shadow: 0px 0px 2px white;
+}
+.footer{
+    text-align: center;
+    padding: 25px;
+    font-size: 1em;
+    color: white;
+    letter-spacing: 2px;
+    font-family: 'Poiret One', cursive;
+    font-weight: 900;
+    text-shadow: 1px 1px 1px rgb(110, 104, 104);
+    width: 100%;
+}
+@media (max-width : 400px) {
+        .header{
+            font-size: 1em;
+        }
+        .footer{
+            font-size: 1em;
+        }
+}
